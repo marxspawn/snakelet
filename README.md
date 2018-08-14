@@ -14,3 +14,5 @@ Touch screen controls are supported and the game state is stored in the browser'
 License: [CC0 1.0 Universal (public domain)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 Author: Raphael Michel
+
+[Play Now](https://marxspawn.github.io/snakelet/) on Github Pages
